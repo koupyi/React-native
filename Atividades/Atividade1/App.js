@@ -23,45 +23,47 @@ export default function App() {
 
   return (
     <View style={styles.principal}>
-      <View style={styles.container1}>
-        <Text style={styles.texto}>{label1}</Text>
-        <Text style={styles.texto}>{label2}</Text>
         <View style={styles.caixa1}>
+          <Text style={styles.texto}>{label1}</Text>
+          <Text style={styles.texto}>{label2}</Text>
         </View>
-        <View style={styles.container2}>
-        <Button title='Trocar label' onPress={trocarLabel1} />
-        <Button style={styles.button} title='Trocar label' onPress={trocarLabel2} />
-        </View>
+        <View style={styles.button1}>
+          <Button title='Trocar label' onPress={trocarLabel1} />
+      </View>    
+      <View style={styles.button2}>
+          <Button title='Trocar label' onPress={trocarLabel2} />
       </View>
     </View>
+
   );
 }
-
 const styles = StyleSheet.create({
   principal: {
-    flex: 1,
-  },
-  container1: {
     flex: 1,
     backgroundColor: 'white',
     alignItems: 'center',
     justifyContent: 'center',
   },
-  container2: {
-    flex: 2,
-    backgroundColor: 'gray',
+  button1: {
+    backgroundColor: 'white',
+    alignItems: 'center', 
+    left: 500,
+    position: 'absolute',
+  },
+  button2: {
+    backgroundColor: 'white',
     alignItems: 'center',
-    justifyContent: 'center',
+    right: 500,
+    position: 'absolute',
   },
   texto: {
     fontSize: 20,
     color: '#000',
     fontWeight: 'bold',
     margin: 20,
-    textAlign: 'center',
   },
   caixa1: {
-    height: 100,
+    height: 200,
     backgroundColor: '#ccc',
     borderColor: '#000',
     borderWidth: 1,
@@ -69,5 +71,8 @@ const styles = StyleSheet.create({
     marginBottom: 20,
     borderBottomEndRadius: 30,
     borderTopLeftRadius: 10,
+    width: 400,
+    position: 'absolute',
+    top: 100,
   },
 });
