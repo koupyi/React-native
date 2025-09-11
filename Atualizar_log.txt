@@ -1,0 +1,179 @@
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory ' ' not absolute
+warning: safe.directory has multiple values
+error: cannot overwrite multiple values with a single value
+       Use a regexp, --add or --replace-all to change safe.directory.
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory ' ' not absolute
+fatal: detected dubious ownership in repository at 'D:/Programacao/React JS'
+'D:/Programacao/React JS' is on a file system that does not record ownership
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory 'D:/Programacao/React JS'
+[ERRO] git add . falhou em "React JS" 
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory ' ' not absolute
+warning: safe.directory has multiple values
+error: cannot overwrite multiple values with a single value
+       Use a regexp, --add or --replace-all to change safe.directory.
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory ' ' not absolute
+fatal: detected dubious ownership in repository at 'D:/Programacao/React JS'
+'D:/Programacao/React JS' is on a file system that does not record ownership
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory 'D:/Programacao/React JS'
+[ERRO] git add . falhou em "React JS" 
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory ' ' not absolute
+warning: safe.directory has multiple values
+error: cannot overwrite multiple values with a single value
+       Use a regexp, --add or --replace-all to change safe.directory.
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory ' ' not absolute
+fatal: detected dubious ownership in repository at 'D:/Programacao/React JS'
+'D:/Programacao/React JS' is on a file system that does not record ownership
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory 'D:/Programacao/React JS'
+[ERRO] git add . falhou em "React JS" 
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory ' ' not absolute
+warning: safe.directory has multiple values
+error: cannot overwrite multiple values with a single value
+       Use a regexp, --add or --replace-all to change safe.directory.
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory ' ' not absolute
+fatal: detected dubious ownership in repository at 'D:/Programacao/React JS'
+'D:/Programacao/React JS' is on a file system that does not record ownership
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory 'D:/Programacao/React JS'
+[ERRO] git add . falhou em "React JS" 
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory ' ' not absolute
+warning: safe.directory has multiple values
+error: cannot overwrite multiple values with a single value
+       Use a regexp, --add or --replace-all to change safe.directory.
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory ' ' not absolute
+fatal: detected dubious ownership in repository at 'D:/Programacao/React JS'
+'D:/Programacao/React JS' is on a file system that does not record ownership
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory 'D:/Programacao/React JS'
+[ERRO] git add . falhou em "React JS" 
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory ' ' not absolute
+warning: safe.directory has multiple values
+error: cannot overwrite multiple values with a single value
+       Use a regexp, --add or --replace-all to change safe.directory.
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory ' ' not absolute
+fatal: detected dubious ownership in repository at 'D:/Programacao/React JS'
+'D:/Programacao/React JS' is on a file system that does not record ownership
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory 'D:/Programacao/React JS'
+[ERRO] git add . falhou em React JS
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory ' ' not absolute
+warning: safe.directory has multiple values
+error: cannot overwrite multiple values with a single value
+       Use a regexp, --add or --replace-all to change safe.directory.
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory ' ' not absolute
+fatal: detected dubious ownership in repository at 'D:/Programacao/React JS'
+'D:/Programacao/React JS' is on a file system that does not record ownership
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory 'D:/Programacao/React JS'
+[ERRO] git add . falhou em React JS
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory ' ' not absolute
+warning: safe.directory has multiple values
+error: cannot overwrite multiple values with a single value
+       Use a regexp, --add or --replace-all to change safe.directory.
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory 'REPO_PATH:\=C:/Program Files/Git/' not absolute
+warning: safe.directory ' ' not absolute
+fatal: detected dubious ownership in repository at 'D:/Programacao/React JS'
+'D:/Programacao/React JS' is on a file system that does not record ownership
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory 'D:/Programacao/React JS'
+[ERRO] git add . falhou em "React JS" 
+warning: in the working copy of 'Atividades/Atividade1/App.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Atividades/Atividade1/package-lock.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Atividades/Atividade1/package.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Atualizar_log.txt', LF will be replaced by CRLF the next time Git touches it
+[SUCESSO] git add . executado com sucesso em "React JS" 
+[SUCESSO] git pull executado com sucesso em "React JS" 
+To https://github.com/koupyi/React-native.git
+   123efc3..2af7e8d  main -> main
+[SUCESSO] git push executado com sucesso em "React JS" 
+[SUCESSO] Atualização concluída em "React JS" 
+[DEBUG] Executando git add . em "React JS" 
