@@ -13,3 +13,14 @@ If you wish to set tracking information for this branch you can do so with:
 
 [ERRO] git pull falhou em "React JS" 
 [DEBUG] Executando git add . em "React JS" 
+warning: in the working copy of 'Atualizar_log.txt', LF will be replaced by CRLF the next time Git touches it
+[DEBUG] Executando git commit em "React JS" 
+[DEBUG] Executando git pull em "React JS" 
+[DEBUG] Executando git push em "React JS" 
+To https://github.com/koupyi/React-native.git
+   1adcc8e..aa6ef6e  main -> main
+[SUCESSO] Atualização concluída em "React JS" 
+[DEBUG] Executando git add . em "React JS" 
+warning: in the working copy of 'Atualizar_log.txt', LF will be replaced by CRLF the next time Git touches it
+[DEBUG] Executando git commit em "React JS" 
+^C[DEBUG] Executando git add . em "React JS" 
