@@ -1,6 +1,13 @@
 {
-    "builds": [{ "src": "package.json", "use": "@vercel/static-build" }],
-    "routes": [{ "handle": "filesystem" }],
-    "outputDirectory": "web-build"
-  }
-  
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/static-build",
+      "config": {
+        "installCommand": "npm install --legacy-peer-deps",
+        "buildCommand": "expo export:web",
+        "outputDirectory": "web-build"
+      }
+    }
+  ]
+}
