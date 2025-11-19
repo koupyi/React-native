@@ -2,9 +2,9 @@ import React, { useState } from 'react';
 import { StyleSheet, Text, View, Button, Image } from 'react-native';
 
 export default function App() {
-  // Lista de prêmios com nome + imagem
+  // Lista de prêmios com nome + imagem (nomes de arquivos em ASCII)
   const premios = [
-    { nome: "Jaré", imagem: require("./src/jaré.jpg") },
+    { nome: "Jare", imagem: require("./src/jare.jpg") },
     { nome: "Opala", imagem: require("./src/opala.webp") },
     { nome: "Pirulito", imagem: require("./src/piru.webp") },
     { nome: "Turbina", imagem: require("./src/turbina.jpg") },
