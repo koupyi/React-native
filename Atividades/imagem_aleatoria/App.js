@@ -52,6 +52,8 @@ export default function App() {
 
       <View style={{ display: display2 }}>
         <Image source={imagem1} style={styles.caixa2} />
+        <Text style={styles.texto}>Integrantes: {"\n"} Hector {"\n"} Mateus Lira {"\n"} Matheus Portela
+        </Text>
         <View style={styles.button}>
           <Button title='Ir para tela principal' onPress={alternarTelas} />
         </View>
